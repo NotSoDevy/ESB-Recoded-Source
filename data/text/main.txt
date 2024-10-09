@@ -1,0 +1,6 @@
+1. all custom difficulties are inside the custom_difficulties folder, which you need to type in the name of ini so the data can load properly.
+
+2. sound value calculation is the current number times 0.01. for example, if the sound value is 35, it will become 0.35.                                                                                             
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       

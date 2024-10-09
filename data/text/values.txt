@@ -1,0 +1,17 @@
+name: name of the difficulty.
+
+mutaspeed: speed the mutant goes when its chasing you.
+
+mutara: max amount the mutant will go away.
+
+sound_weak: value the sound increases within weak sounds
+
+sound_mid: value the sound increases within mid sounds
+
+sound_strong: value the sound increases within strong sounds
+
+customMusic: set it to true if the difficulty has unique custom music.
+
+customSkin: set it to true if the difficulty has a unique skin.
+
+x_frames: max frames the animation has in a custom skin.
