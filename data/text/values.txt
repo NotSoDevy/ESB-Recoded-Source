@@ -15,3 +15,9 @@ customMusic: set it to true if the difficulty has unique custom music.
 customSkin: set it to true if the difficulty has a unique skin.
 
 x_frames: max frames the animation has in a custom skin.
+
+stunTimer: amount of stun the mutant has after getting hit by a gun shot.
+
+enableX: enable or disable different items.
+
+addAmmo: amount of ammo the player gets after picking up a gun.
