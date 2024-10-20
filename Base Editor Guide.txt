@@ -1,0 +1,28 @@
+Press the arrow keys to move the camera.
+Left-click to place object.
+Right-click to delete the object.
+Press Q or E to change the object placement offset.
+
+ItemID List:
+1 to 17 - Solid Blocks
+18 - Destroyed Ship*
+19 - Battery*
+20 - Gasoline*
+21 - Engine*
+22 - Red Keycard*
+23 - Red Door*
+24 - Red Machine*
+25 - Blue Keycard*
+26 - Blue Door*
+27 - Blue Machine*
+28 - Yellow Keycard*
+29 - Yellow Door*
+30 - Yellow Machine*
+31 - Spike
+32 - Health Ring
+33 - Red Ring
+34 - Gun
+35 - Map*
+36 - Bad Ending Trigger
+
+* = These objects can be only placed once.
