@@ -4,8 +4,8 @@ Official source code page for Eggman's Secret Base Recoded, a remake of an old g
 You need CTF 2.5+ to acess the source code itself.
 
 # Extensions Required
-Active Picture
-Active System Box
+- Active Picture
+- Active System Box
 Button
 Combo Box
 File
